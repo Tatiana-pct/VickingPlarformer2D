@@ -2447,8 +2447,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _groundChecker: {fileID: 1950551759}
-  _speed: 5
-  _jumpForce: 7
+  _speed: 10
+  _jumpForce: 8
   _jumpCountMax: 2
   _fallGravityScale: 3
 --- !u!95 &1897877664
